@@ -9,7 +9,7 @@
 
 - Currently working in AMDOCS as a Software Developer with Advanced Seniority.
 
-- Completed Bachelor of Engineer (BE-CSE) from ITM GOI, Gwalior.
+- Completed Bachelor of Engineering (BE-CSE) from ITM GOI, Gwalior.
 
 <!---
 ArunJain12/ArunJain12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
