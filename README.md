@@ -7,7 +7,7 @@
 
 - Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
 
-- Currently working in AMDOCS as a Software Developer with Advanced Seniority.
+- Currently working in NetApp as MTS - 3.
 
 - Completed Bachelor of Engineering (BE-CSE) from ITM GOI, Gwalior.
 
